@@ -1,0 +1,11 @@
+{
+  "name": "futuregreen-integration",
+  "version": "1.0.0",
+  "description": "System integration for Future Green: manages frontend, model deployment, and backend integration.",
+  "scripts": {
+    "start": "echo 'No app to start yet'",
+    "setup": "echo 'Run setup scripts from scripts/'"
+  },
+  "author": "Future Green Team",
+  "license": "MIT"
+}
